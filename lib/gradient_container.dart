@@ -18,7 +18,7 @@ class GradientContainer extends StatelessWidget {
           // transform: GradientRotation(1.57)),
         ),
       ),
-      child: StyledText(),
+      child: StyledText("Hello world"),
     );
   }
 }
